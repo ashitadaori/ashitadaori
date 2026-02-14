@@ -54,3 +54,8 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Builder;AI+Automation+Explorer;System+Architect" />
+</p>
+

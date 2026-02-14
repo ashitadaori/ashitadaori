@@ -1,6 +1,9 @@
 <h1 align="center">Hello World!, I'm Ashi 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Builder;AI+Automation+Explorer;System+Architect" />
+</p>
+<p align="center">
 🚀 Web Developer | 💻 System Builder | 🌏 Philippines  
 </p>
 
@@ -54,8 +57,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7F3ACE&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+Builder;AI+Automation+Explorer;System+Architect" />
-</p>
 

@@ -16,7 +16,10 @@
 - 🌱 Exploring AI + Automation
 - 🧠 Passionate about scalable systems
 
----
+---<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNrbTBoeXNoeDV2N294ajd0Zmo2amd1NW1wOGNiMTdhem42bWE4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gJPQv1Bc1OsKaWO0Dp/giphy.gif" width="600"/>
+</p>
+
 
 ## 🛠 Tech Stack
 
